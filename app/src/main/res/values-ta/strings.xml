@@ -1,0 +1,73 @@
+<resources>
+    <string name="hero">உங்கள் மக்காச்சோளத்தைப் பாருங்கள்</string>
+    <string name="tagline">படம் எடுத்து, அடுத்து எதைப் பார்க்க வேண்டும் என்று அறியுங்கள்.</string>
+    <string name="pilot">தமிழ்நாடு • மக்காச்சோளம்</string>
+    <string name="language">மொழி</string>
+    <string name="camera">படம் எடு</string>
+    <string name="gallery">படத்தைத் தேர்ந்தெடு</string>
+    <string name="whorl_camera">நடுக் குருத்தைப் படம் எடு</string>
+    <string name="whorl_gallery">நடுக் குருத்துப் படத்தைத் தேர்ந்தெடு</string>
+    <string name="photo">பட ஆதாரம்</string>
+    <string name="details">பயிர் விவரம்</string>
+    <string name="stage_select">பயிர் நிலை</string>
+    <string name="severity_select">இந்தச் செடியில் தெரியும் சேதம்</string>
+    <string name="severity_hint">செடி முழுவதையும் பார்த்து மதிப்பிடுங்கள். சிறு பகுதி மட்டும் தெரிந்தால் மதிப்பிட இயலவில்லை என்பதைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="get_advice">அடுத்த செயலை அறிக</string>
+    <string name="next">அடுத்து என்ன செய்வது</string>
+    <string name="sample">மாதிரி ஒன்றைப் பாருங்கள்</string>
+    <string name="sample_badge">மாதிரி விவரங்கள்</string>
+    <string name="demo_followup">புழு தெரியும் மாதிரியைப் பயன்படுத்து</string>
+    <string name="new_case">புதிய சோதனையைத் தொடங்கு</string>
+    <string name="model_setup">இணையமில்லா மாதிரி அமைப்பு</string>
+    <string name="model_setup_note">கோப்புகளை ஒருமுறை இறக்குமதி செய்யுங்கள். செயலி அவற்றை இந்தச் சாதனத்திலேயே பயன்படுத்தும்.</string>
+    <string name="vision_model">இலை மாதிரி</string>
+    <string name="pest_model">நடுக் குருத்து மாதிரி</string>
+    <string name="llama_model">லாமா மாதிரி</string>
+    <string name="tokenizer">லாமா டோக்கனைசர்</string>
+    <string name="install">%1$s இறக்குமதி செய்</string>
+    <string name="replace">%1$s மாற்று</string>
+    <string name="busy">இந்தச் சாதனத்தில் செயலாக்குகிறது…</string>
+    <string name="importing">மாதிரிக் கோப்பை இறக்குமதி செய்கிறது…</string>
+    <string name="installed">மாதிரிக் கோப்பு இறக்குமதி செய்யப்பட்டது.</string>
+    <string name="failed_import">கோப்பை இறக்குமதி செய்ய முடியவில்லை. சேமிப்பிடத்தைச் சரிபார்த்து மீண்டும் முயலுங்கள்.</string>
+    <string name="need_leaf">உங்கள் படத்தை ஆய்வு செய்ய இலை மாதிரியை இறக்குமதி செய்யுங்கள். மாதிரியையும் முயற்சிக்கலாம்.</string>
+    <string name="need_pest">அருகிலிருந்து எடுத்த படத்தைப் பார்க்க நடுக் குருத்து மாதிரியை இறக்குமதி செய்யுங்கள்.</string>
+    <string name="bad_image">படத்தைப் படிக்க முடியவில்லை. வேறு படம் எடுங்கள் அல்லது தேர்ந்தெடுங்கள்.</string>
+    <string name="vision_error">பட மாதிரி இயங்கவில்லை. அமைப்பில் மாதிரிக் கோப்பைச் சரிபார்க்கவும்.</string>
+    <string name="camera_unavailable">கேமரா கிடைக்கவில்லை. கேலரியிலிருந்து படத்தைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="source_llama">இந்தச் சாதனத்தில் லாமா தேர்ந்தெடுத்தது</string>
+    <string name="source_missing">செயலியில் உள்ள வழிகாட்டல் • லாமா கோப்புகள் இல்லை</string>
+    <string name="source_rejected">செயலியில் உள்ள வழிகாட்டல் • லாமா ஏற்ற செயலை வழங்கவில்லை</string>
+    <string name="vision_time">படச் சோதனை • %1$d ms</string>
+    <string name="advice_time">ஆலோசனை • %1$d ms</string>
+    <string name="source_tnau">ஆதாரம் • தமிழ்நாடு வேளாண்மைப் பல்கலைக்கழகம்</string>
+    <string name="source_cimmyt">ஆதாரம் • CIMMYT படைப்புழுக் கண்காணிப்பு வழிகாட்டி</string>
+    <string name="finding_healthy">ஆதரிக்கப்படும் அறிகுறிகள் தெரியவில்லை</string>
+    <string name="finding_blight">டர்சிகம் இலைக்கருகல் இருக்கலாம்</string>
+    <string name="finding_pest_damage">படைப்புழுச் சேதம் இருக்கலாம்</string>
+    <string name="finding_larva">படைப்புழு இருக்கலாம்</string>
+    <string name="finding_unknown">இந்தப் படத்திலிருந்து கண்டறிய முடியவில்லை</string>
+    <string name="action_retake">பகல் வெளிச்சத்தில் தெளிவாகப் படம் எடுங்கள். பாதித்த பகுதி தெளிவாகத் தெரியட்டும்.</string>
+    <string name="action_retake_whorl">செடியின் நடுப் பகுதி தெளிவாகத் தெரியும்படி மீண்டும் படம் எடுங்கள். இன்னும் தெளிவில்லையெனில் உள்ளூர் வேளாண்மை அலுவலரை அணுகுங்கள்.</string>
+    <string name="action_monitor">அடுத்த வயல் பார்வையில் அருகிலுள்ள செடிகளையும் பாருங்கள். அறிகுறிகள் தெரிந்தால் புதிய படம் எடுங்கள்.</string>
+    <string name="action_whorl_photo">புதிய இலைகள் சுருண்டிருக்கும் செடியின் நடுக் குருத்தைப் படம் எடுங்கள். புழு தெரிந்தால் அதையும் படத்தில் சேருங்கள்.</string>
+    <string name="action_check_nearby">அருகிலுள்ள செடிகளில் இதே சேதம் உள்ளதா பாருங்கள். பல செடிகளில் புதிய சேதம் இருந்தால் உள்ளூர் வேளாண்மை அலுவலரிடம் படங்களைக் காட்டுங்கள்.</string>
+    <string name="action_recheck">அடுத்த முறை வரும்போது மீண்டும் படம் எடுங்கள். சேதம் எங்கு உள்ளது, பரவியுள்ளதா என்று ஒப்பிடுங்கள்.</string>
+    <string name="action_extension">உறுதிப்படுத்தவும் மேலாண்மை ஆலோசனை பெறவும் படத்தையும் பயிர் நிலையையும் உள்ளூர் வேளாண்மை அலுவலரிடம் காட்டுங்கள்.</string>
+    <string-array name="stages">
+        <item>ஆரம்ப வளர்ச்சி</item>
+        <item>பிந்தைய வளர்ச்சி</item>
+        <item>உறுதியாகத் தெரியவில்லை</item>
+    </string-array>
+    <string-array name="severities">
+        <item>மதிப்பிட இயலவில்லை</item>
+        <item>லேசானது • சிறு பகுதிகள்</item>
+        <item>மிதமானது • பல பகுதிகள் பாதிப்பு</item>
+        <item>கடுமையானது • பரவலான சேதம்</item>
+    </string-array>
+    <string-array name="sample_cases">
+        <item>ஆரோக்கியமான மக்காச்சோளம்</item>
+        <item>இலைக்கருகல்</item>
+        <item>படைப்புழுச் சேதம் இருக்கலாம்</item>
+    </string-array>
+</resources>

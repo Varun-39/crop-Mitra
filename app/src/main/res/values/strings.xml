@@ -1,0 +1,73 @@
+<resources>
+    <string name="hero">Check your maize</string>
+    <string name="tagline">Take a photo and find out what to check next.</string>
+    <string name="pilot">Tamil Nadu • Maize</string>
+    <string name="language">Language</string>
+    <string name="camera">Take photo</string>
+    <string name="gallery">Choose from gallery</string>
+    <string name="whorl_camera">Photograph the whorl</string>
+    <string name="whorl_gallery">Choose a whorl photo</string>
+    <string name="photo">Photo evidence</string>
+    <string name="details">Plant details</string>
+    <string name="stage_select">Crop stage</string>
+    <string name="severity_select">Visible damage on this plant</string>
+    <string name="severity_hint">Use the whole plant as a reference. If only a small part is visible, choose Unable to assess.</string>
+    <string name="get_advice">Get next step</string>
+    <string name="next">What to do next</string>
+    <string name="sample">Try a sample case</string>
+    <string name="sample_badge">Sample observations</string>
+    <string name="demo_followup">Use sample with visible larva</string>
+    <string name="new_case">Start a new check</string>
+    <string name="model_setup">Offline model setup</string>
+    <string name="model_setup_note">Import the files once. The app uses them on this device.</string>
+    <string name="vision_model">Leaf model</string>
+    <string name="pest_model">Whorl model</string>
+    <string name="llama_model">Llama model</string>
+    <string name="tokenizer">Llama tokenizer</string>
+    <string name="install">Import %1$s</string>
+    <string name="replace">Replace %1$s</string>
+    <string name="busy">Working on this device…</string>
+    <string name="importing">Importing the model file…</string>
+    <string name="installed">Model file imported.</string>
+    <string name="failed_import">Could not import the file. Check free storage and try again.</string>
+    <string name="need_leaf">Import a leaf model to analyse your photo. You can also try a sample case.</string>
+    <string name="need_pest">Import a whorl model to analyse the close-up.</string>
+    <string name="bad_image">Could not read the photo. Take another photo or choose a different image.</string>
+    <string name="vision_error">The image model could not run. Check the model file in setup.</string>
+    <string name="camera_unavailable">Camera unavailable. Choose a photo from the gallery.</string>
+    <string name="source_llama">Selected by Llama on this device</string>
+    <string name="source_missing">Built-in guidance • Llama files missing</string>
+    <string name="source_rejected">Built-in guidance • Llama did not return an eligible action</string>
+    <string name="vision_time">Image check • %1$d ms</string>
+    <string name="advice_time">Advisory • %1$d ms</string>
+    <string name="source_tnau">Reference • Tamil Nadu Agricultural University</string>
+    <string name="source_cimmyt">Reference • CIMMYT fall armyworm scouting guide</string>
+    <string name="finding_healthy">No supported symptoms visible</string>
+    <string name="finding_blight">Likely Turcicum leaf blight</string>
+    <string name="finding_pest_damage">Possible fall armyworm damage</string>
+    <string name="finding_larva">Likely fall armyworm larva</string>
+    <string name="finding_unknown">Unable to identify from this photo</string>
+    <string name="action_retake">Take a clear photo in daylight. Keep the affected area in focus.</string>
+    <string name="action_retake_whorl">Retake the close-up with the centre of the plant in focus. If the evidence is still unclear, contact a local extension worker.</string>
+    <string name="action_monitor">Check nearby plants during your next field visit. Take a new photo if symptoms appear.</string>
+    <string name="action_whorl_photo">Take a close-up inside the centre of the plant, where new leaves are rolled. Include any visible caterpillar.</string>
+    <string name="action_check_nearby">Look at nearby plants for similar damage. Keep the photos to show a local extension worker if fresh damage is widespread.</string>
+    <string name="action_recheck">Take another photo on your next visit. Compare where damage appears and whether it has spread.</string>
+    <string name="action_extension">Show the photo and the crop stage to a local agricultural extension worker for confirmation and treatment advice.</string>
+    <string-array name="stages">
+        <item>Early growth</item>
+        <item>Late growth</item>
+        <item>Unsure</item>
+    </string-array>
+    <string-array name="severities">
+        <item>Unable to assess</item>
+        <item>Mild • small patches</item>
+        <item>Moderate • several affected areas</item>
+        <item>Severe • extensive visible damage</item>
+    </string-array>
+    <string-array name="sample_cases">
+        <item>Healthy maize</item>
+        <item>Leaf blight</item>
+        <item>Possible fall armyworm damage</item>
+    </string-array>
+</resources>

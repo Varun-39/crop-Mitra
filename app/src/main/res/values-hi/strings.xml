@@ -1,0 +1,73 @@
+<resources>
+    <string name="hero">अपनी मक्का की जाँच करें</string>
+    <string name="tagline">फ़ोटो लें और जानें कि आगे क्या जाँचना है।</string>
+    <string name="pilot">तमिलनाडु • मक्का</string>
+    <string name="language">भाषा</string>
+    <string name="camera">फ़ोटो लें</string>
+    <string name="gallery">गैलरी से चुनें</string>
+    <string name="whorl_camera">बीच की पत्तियों की फ़ोटो लें</string>
+    <string name="whorl_gallery">बीच की पत्तियों की फ़ोटो चुनें</string>
+    <string name="photo">फ़ोटो से मिली जानकारी</string>
+    <string name="details">पौधे की जानकारी</string>
+    <string name="stage_select">फसल की अवस्था</string>
+    <string name="severity_select">इस पौधे पर दिखने वाला नुकसान</string>
+    <string name="severity_hint">पूरे पौधे को देखकर आकलन करें। अगर थोड़ा हिस्सा दिख रहा है, तो आकलन नहीं हो सका चुनें।</string>
+    <string name="get_advice">अगला कदम देखें</string>
+    <string name="next">आगे क्या करें</string>
+    <string name="sample">एक उदाहरण आज़माएँ</string>
+    <string name="sample_badge">उदाहरण के अवलोकन</string>
+    <string name="demo_followup">दिखाई देने वाले लार्वा का उदाहरण लें</string>
+    <string name="new_case">नई जाँच शुरू करें</string>
+    <string name="model_setup">ऑफ़लाइन मॉडल सेटअप</string>
+    <string name="model_setup_note">फ़ाइलें एक बार आयात करें। ऐप उन्हें इसी डिवाइस पर इस्तेमाल करता है।</string>
+    <string name="vision_model">पत्ती मॉडल</string>
+    <string name="pest_model">बीच की पत्तियों का मॉडल</string>
+    <string name="llama_model">Llama मॉडल</string>
+    <string name="tokenizer">Llama टोकनाइज़र</string>
+    <string name="install">%1$s आयात करें</string>
+    <string name="replace">%1$s बदलें</string>
+    <string name="busy">इसी डिवाइस पर काम हो रहा है…</string>
+    <string name="importing">मॉडल फ़ाइल आयात हो रही है…</string>
+    <string name="installed">मॉडल फ़ाइल आयात हो गई।</string>
+    <string name="failed_import">फ़ाइल आयात नहीं हुई। खाली जगह जाँचकर फिर कोशिश करें।</string>
+    <string name="need_leaf">अपनी फ़ोटो का विश्लेषण करने के लिए पत्ती मॉडल आयात करें। आप उदाहरण भी आज़मा सकते हैं।</string>
+    <string name="need_pest">पास से ली गई फ़ोटो का विश्लेषण करने के लिए बीच की पत्तियों का मॉडल आयात करें।</string>
+    <string name="bad_image">फ़ोटो पढ़ी नहीं जा सकी। दूसरी फ़ोटो लें या चुनें।</string>
+    <string name="vision_error">इमेज मॉडल नहीं चल पाया। सेटअप में मॉडल फ़ाइल जाँचें।</string>
+    <string name="camera_unavailable">कैमरा उपलब्ध नहीं है। गैलरी से फ़ोटो चुनें।</string>
+    <string name="source_llama">इसी डिवाइस पर Llama ने चुना</string>
+    <string name="source_missing">ऐप में मौजूद मार्गदर्शन • Llama फ़ाइलें उपलब्ध नहीं हैं</string>
+    <string name="source_rejected">ऐप में मौजूद मार्गदर्शन • Llama ने मान्य कदम नहीं दिया</string>
+    <string name="vision_time">फ़ोटो जाँच • %1$d ms</string>
+    <string name="advice_time">सलाह • %1$d ms</string>
+    <string name="source_tnau">संदर्भ • तमिलनाडु कृषि विश्वविद्यालय</string>
+    <string name="source_cimmyt">संदर्भ • CIMMYT फ़ॉल आर्मीवर्म निरीक्षण मार्गदर्शिका</string>
+    <string name="finding_healthy">जाँचे जाने वाले लक्षण नहीं दिखे</string>
+    <string name="finding_blight">टर्सिकम पत्ती झुलसा रोग की संभावना</string>
+    <string name="finding_pest_damage">फ़ॉल आर्मीवर्म के नुकसान की संभावना</string>
+    <string name="finding_larva">फ़ॉल आर्मीवर्म लार्वा की संभावना</string>
+    <string name="finding_unknown">इस फ़ोटो से पहचान नहीं हो सकी</string>
+    <string name="action_retake">दिन की रोशनी में साफ़ फ़ोटो लें। प्रभावित भाग पर फ़ोकस रखें।</string>
+    <string name="action_retake_whorl">पौधे के बीच का हिस्सा साफ़ दिखाते हुए पास से फिर फ़ोटो लें। अगर पहचान फिर भी स्पष्ट न हो, तो स्थानीय कृषि विस्तार कर्मी से संपर्क करें।</string>
+    <string name="action_monitor">खेत के अगले दौरे पर आसपास के पौधों को देखें। लक्षण दिखें तो नई फ़ोटो लें।</string>
+    <string name="action_whorl_photo">पौधे के बीच में जहाँ नई पत्तियाँ लिपटी हैं, वहाँ की पास से फ़ोटो लें। कोई इल्ली दिखे तो उसे भी फ़ोटो में रखें।</string>
+    <string name="action_check_nearby">आसपास के पौधों पर ऐसा नुकसान देखें। नया नुकसान कई पौधों पर दिखे तो फ़ोटो स्थानीय कृषि विस्तार कर्मी को दिखाएँ।</string>
+    <string name="action_recheck">अगले दौरे पर फिर फ़ोटो लें। देखें कि नुकसान कहाँ है और क्या वह फैला है।</string>
+    <string name="action_extension">पुष्टि और उपचार की सलाह के लिए फ़ोटो और फसल की अवस्था स्थानीय कृषि विस्तार कर्मी को दिखाएँ।</string>
+    <string-array name="stages">
+        <item>शुरुआती बढ़वार</item>
+        <item>बाद की बढ़वार</item>
+        <item>पता नहीं</item>
+    </string-array>
+    <string-array name="severities">
+        <item>आकलन नहीं हो सका</item>
+        <item>हल्का • छोटे हिस्से</item>
+        <item>मध्यम • कई हिस्से प्रभावित</item>
+        <item>गंभीर • बड़े हिस्से में नुकसान</item>
+    </string-array>
+    <string-array name="sample_cases">
+        <item>स्वस्थ मक्का</item>
+        <item>पत्ती झुलसा</item>
+        <item>फ़ॉल आर्मीवर्म के नुकसान की संभावना</item>
+    </string-array>
+</resources>
